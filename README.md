@@ -68,4 +68,4 @@ High sales in states like UP, Rajasthan, and Gujarat highlight regional strength
 Demand for XS/M sizes and Modular helmets could guide inventory and production decisions.
 
 ### 6.	Screenshots / Demos
-Dashboard looks like:- ![Dashboard Preview](https://github.com/AkshayMohite37/churndata-analysis/blob/main/Snapshot%20.png)
+Dashboard looks like:- ![Dashboard Preview](https://github.com/AkshayMohite37/Steelbird-helmet-sales/blob/main/Snapshot%201.png)
