@@ -2,10 +2,10 @@
 
 ### 1.	Project Title 
 ⛑️Steelbird_helmet_sales: Steelbird helmet sales Insights Dashboard
-A dynamic, interactive data visualization tool built to explore VI churn data pan-india focusing on geographic, demographic, churn distribution, account info and service useed.
+A interactive data visualization tool built to explore helmet sales across india focusing on geographic, rating, size, product model.
 
 ### 2.  Purpose
-The churn Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 6418 customers across 28 states. The dashboard focuses on highlighting major churn like geographic, demographic, churn distribution, account info service useed. This tool is intended for use by clients telecomm industry and data-driven strategists who seek to understand trends and characteristics of churn.
+The helmet sales Analytics Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 50,000 helmet sales across 28 states. The dashboard focuses on highlighting major churn like geographic, rating, size, product model. This tool is intended for use by clients and data-driven strategists who seek to understand sales.
 
 ### 3.	Tech Stack
 The dashboard was built using the following tools and technologies:<br>
@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:<br>
 ### 4.	Data Source
 Source: Chatgpt. 
 
-Data on 50,000 customers around pan-india, including details on their model, size, dealers, rating, return reason and region.
+Data on 50,000 helmet sales across india, including details on their model, size, dealers, rating, return reason and region.
 
 ### 5.	Features / Highlights
 The best dashboard explanation format. 
