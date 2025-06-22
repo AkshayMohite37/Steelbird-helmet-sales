@@ -30,6 +30,7 @@ The best dashboard explanation format.
 Steelbird Helmets, a leading helmet manufacturer, needed deeper insight into sales trends, product performance, and return reasons across India to improve distribution, product development, and customer satisfaction. With fragmented data across dealers, regions, and models, drawing clear insights for strategic decision-making was challenging.
 
 •	Goal of the Dashboard
+
 To provide a centralized, interactive, and visually intuitive view of helmet sales, returns, ratings, and regional performance. The dashboard enables sales leaders, supply chain analysts, and product managers to:
  • Track total and dealer-wise sales.
  • Analyze return reasons and return rate by product.
@@ -41,16 +42,21 @@ To provide a centralized, interactive, and visually intuitive view of helmet sal
 
 • Return Reasons (Donut Chart):
   Shows that the majority (58.4%) of returns fall under “Other” reasons; size issue, damaged products, and wrong items also contribute.
+  
 • Total Sales by Dealer:
   Top dealers include SafeRide Gears (83M) and GearUp Moto (82M), suggesting dealer-specific sales strength.
+  
 • Sales Trend (Line Chart by Month):
   Seasonal sales patterns with visible dips mid-year.
+  
 • Product-Level Analysis:
   Bestselling models: SBA-3 Robo (51M), SBA-2 Terminator (50M).
   Ratings per model show consistency (~3.73–3.76).
   Return rate by model is mostly stable at ~0.50%, with SBH-17 slightly higher (0.51%).
+  
 • Heatmap by Region:
   High-performing states: Uttar Pradesh, Rajasthan, Gujarat (~61M each). Rating and return rates remain stable across regions.
+  
 • Sales by Helmet Type & Size:
   Modular and Half Face helmets are top-selling types; XS and M sizes lead unit sales.
 
